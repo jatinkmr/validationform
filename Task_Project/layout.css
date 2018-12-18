@@ -1,0 +1,31 @@
+table{
+	padding: 1%100;
+	background: top repeat-x #FAFAFF;
+	font-size: 20pt;
+	color: brown;
+	font-weight: bold;
+	font-align: center;
+	font-family: Magneto;
+}
+
+input[type="text"],input[type="email"],textarea,select,button[type="submit"]{
+	color: blue;
+	height: 30px;
+	line-height: 15px;
+	width: 100%;
+	padding: 0px 0px 0px 10px;
+	margin-top: 2px;
+	border: 1px solid#E5E5E5;
+	background: #FBFBFB;
+	outlline: 0;
+}
+
+h3{
+	font-family: magneto;
+	color: red;
+}
+
+h6{
+	color: "red";
+	font-family: Baskerville Old Face;	
+}
